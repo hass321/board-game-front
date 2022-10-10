@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.board{
+  align-items: center;
+  height: 400px;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
+.box{
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  border: 2px solid rgb(222,222,222);
+  /* border-left: none; */
+}
+.first-box{
+  border-left: 4px solid rgb(222,222,222);
+}

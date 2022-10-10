@@ -1,0 +1,25 @@
+{
+  "short_name": "Board Game",
+  "name": "Board Game knight",
+  "icons": [
+    {
+      "src": "knight.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "knight.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "knight.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

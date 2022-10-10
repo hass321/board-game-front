@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.board{
+  align-items: center;
+  height: 400px;
+}
+.alignRow{
+  display: flex;
+  justify-content: center;
+}
+.box{
+  width: 40px;
+  height: 40px;
+  padding: 4px;
+  border: 2px solid rgb(222,222,222);
+}
+.first-box{
+  border-left: 4px solid rgb(222,222,222);
+}
+.timer-style{
+      justify-content: space-around;
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 10px;
+}
